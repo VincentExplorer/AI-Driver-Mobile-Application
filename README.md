@@ -2,6 +2,10 @@
 
 Hi everyone! Welcome to Vincent's school project.
 
-I am currenly looking for full-stack web developer internships or full-time jobs.
+A bit of intro of the project:
 
-If you would like to help me out, please write me email at Wencheng.Zhao@baruchmail.cuny.edu, much appreciated!
+•	Registered drivers check current trip, location, driving score, system rate driving behavior and generated credits
+
+•	Integrated with React Native modules, react-navigation, react-native-firebase, authenticated users with Firebase
+
+If you have any questions, let me know, thanks!
